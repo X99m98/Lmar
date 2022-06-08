@@ -60,7 +60,7 @@
         "ALIVE_NAME": {
             "description": "اكتب اسم المطور",
             "required": true,
-            "value": ""
+            "value": "LAMAR"
         }
     },
     "addons": [],
