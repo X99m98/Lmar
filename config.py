@@ -17,7 +17,7 @@ BOT_USERNAME = getenv("BOT_USERNAME")
 UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/lMl10l/lMl10l")
 UPSTREAM_BRANCH = getenv("UPSTREM_BRANCH", "main")
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "60"))
-GROUP_SUPPORT = getenv("GROUP_SUPPORT", "QII_ll")
+GROUP_SUPPORT = getenv("GROUP_SUPPORT", "x99m9")
 UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "QII_ll")
 
 # database, decorators, handlers mandatory vars
